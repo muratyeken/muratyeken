@@ -1,7 +1,15 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">😄 Merhaba Arkadaşlar GitHub'ıma Hoşgeldiniz</a>
+### 
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<br>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"></a>
+    <h1 align="center">°°°√&emsp;muЯosoft&emsp;®°°°</h1>
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Merhaba+Arkadaşlar;GitHub'ıma+Hoşgeldiniz;As+Soon+As;I+Will+Solve+It&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
 
 - 🔭 &nbsp;I'm learning something important to Earth right now..
-- 🌱 &nbsp;I’m currently working on Asp.Core MVC & Web API.
 - 💬 &nbsp;Ask me anything about the Chemistry.
 
 <details>
@@ -11,8 +19,7 @@
 <a href="https://linkedin.com/in/muratyekenkinrul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muratyeken" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21039941/murat-yeken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muratyeken" height="30" width="40" /></a>
 <a href="https://twitter.com/muratyeken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muratyeken" height="30" width="40" /></a>
-<a href="https://www.instagram.com/muratyeken/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muratyeken" height="30" width="40" /></a>
-  
+<a href="https://www.instagram.com/muratyeken/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muratyeken" height="30" width="40" /></a>  
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
